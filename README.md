@@ -23,41 +23,41 @@ is clean, professional, and GitHub-ready.
 <br>
 
 ## 📁 models/
-- 📄 [final_model.pkl](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/models/final_model.pkl)
-- 📄 [tfidf_vectorizer.pkl](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/models/tfidf_vectorizer.pkl)
+- 📄 [final_model.pkl](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/models/final_model.pkl)
+- 📄 [tfidf_vectorizer.pkl](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/models/tfidf_vectorizer.pkl)
 
 ---
 
 ## 📁 notebooks/
-- 📓 [spam_classification.ipynb](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/notebooks/spam_classification.ipynb)
+- 📓 [spam_classification.ipynb](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/notebooks/spam_classification.ipynb)
 
 ---
 
 ## 📁 plots/
-- 🟦 [feature_importance_logreg.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/plots/feature_importance_logreg.png)
-- 🟥 [final_model_comparison.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/plots/final_model_comparison.png)
-- 🟪 [multiclassification_examples.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/plots/multiclassification_examples.png)
-- 🟩 [top_spam_tokens_MNB.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/plots/top_spam_tokens_MNB.png)
+- 🟦 [feature_importance_logreg.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/plots/feature_importance_logreg.png)
+- 🟥 [final_model_comparison.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/plots/final_model_comparison.png)
+- 🟪 [multiclassification_examples.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/plots/multiclassification_examples.png)
+- 🟩 [top_spam_tokens_MNB.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/plots/top_spam_tokens_MNB.png)
 
 ---
 
 ## 📁 results/
-- 📊 [calibration_plot.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/results/calibration_plot.png)
-- 🟦 [confusion_matrix_logreg.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/results/confusion_matrix_logreg.png)
-- 🟨 [confusion_matrix_mnb.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/results/confusion_matrix_mnb.png)
-- 📑 [model_comparison_results.csv](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/results/model_comparison_results.csv)
-- 📈 [precision_recall_curve.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/results/precision_recall_curve.png)
-- 📉 [ROC_curve.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/results/ROC_curve.png)
+- 📊 [calibration_plot.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/results/calibration_plot.png)
+- 🟦 [confusion_matrix_logreg.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/results/confusion_matrix_logreg.png)
+- 🟨 [confusion_matrix_mnb.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/results/confusion_matrix_mnb.png)
+- 📑 [model_comparison_results.csv](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/results/model_comparison_results.csv)
+- 📈 [precision_recall_curve.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/results/precision_recall_curve.png)
+- 📉 [ROC_curve.png](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/results/ROC_curve.png)
 
 ---
 
 ## 📁 src/
-- 🧹 [clean_text.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/src/clean_text.py)
-- 🤖 [predict.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/src/predict.py)
-- 🔷 [train_gda.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/src/train_gda.py)
-- 🔴 [train_logreg.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/src/train_logreg.py)
-- 🟡 [train_nb.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/src/train_nb.py)
-- 🧩 [vectorizer.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/src/vectorizer.py)
+- 🧹 [clean_text.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/src/clean_text.py)
+- 🤖 [predict.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/src/predict.py)
+- 🔷 [train_gda.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/src/train_gda.py)
+- 🔴 [train_logreg.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/src/train_logreg.py)
+- 🟡 [train_nb.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/src/train_nb.py)
+- 🧩 [vectorizer.py](https://github.com/Ankush-Patil99/spam-classification-bayes-gda-logreg/blob/main/spam-classification-bayes-gda-logreg/src/vectorizer.py)
 
 </details>
   
