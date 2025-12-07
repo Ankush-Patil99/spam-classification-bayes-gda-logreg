@@ -5,7 +5,8 @@ A complete end-to-end SMS spam detection project combining classical
 machine-learning models with probability-driven approaches. This project
 is clean, professional, and GitHub-ready.
 
-## 🚀 PROJECT HIGHLIGHTS
+## 🚀 PROJECT HIGHLIGHTS:-
+
 ✔ Multinomial Naive Bayes  
 ✔ Bernoulli Naive Bayes  
 ✔ Gaussian Naive Bayes  
